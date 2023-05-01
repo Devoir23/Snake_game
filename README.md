@@ -1,2 +1,3 @@
 # Snake_game
-Created simple snake game using turtle concepts. Learning turtle was fun.
+This snake game is created using Turtle.
+It is basic level game created while learning turtle.
